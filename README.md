@@ -31,6 +31,3 @@ todo_list/
 
 ## Requirements
 - C++ compiler (GCC, Clang, MSVC)
-
-## Author
-Himanshu Dhiman
